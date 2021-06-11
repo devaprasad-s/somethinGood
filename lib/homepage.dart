@@ -26,7 +26,7 @@ class Homepage extends StatelessWidget {
                         fontSize: 30,
                         fontWeight: FontWeight.w900,
                         color: Colors.black)),
-                  Text('Student | Developer | Programmer', 
+                  Text('Student | Noob programmer | Cool guy', 
                       style: TextStyle(
                         fontSize: 25,
                         fontWeight: FontWeight.bold,
@@ -36,7 +36,7 @@ class Homepage extends StatelessWidget {
             ),
             Text(' '),
             Text(
-              '  About',
+              'About',
               style: TextStyle(
                 fontSize: 30,
                 fontWeight: FontWeight.w300,
@@ -44,7 +44,7 @@ class Homepage extends StatelessWidget {
               ),
               ),
             Text(
-              "  Yo app developers BEWARE!! There's a new guy in town! Now if you are a    programmer which you are ",
+              'Yo app developers BEWARE!! There\'s a new guy in town! Now if you are a programmer (which you probably are),you might be wondering who am I...Well think of me as a noob trying to \'act\' LIKE a god',
               style: TextStyle(
                 fontSize: 30,
                 fontWeight: FontWeight.w300,
